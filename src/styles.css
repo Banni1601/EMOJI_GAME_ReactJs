@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.f-con {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  background-color: chartreuse;
+}
